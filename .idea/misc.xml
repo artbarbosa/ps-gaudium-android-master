@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/A.R.T/AndroidStudioProjects/ps-gaudium-android-master/EntreGaudium/app/src/main/res/drawable/ic_entregas.xml" value="0.188" />
+        <entry key="..\:/Users/A.R.T/AndroidStudioProjects/ps-gaudium-android-master/EntreGaudium/app/src/main/res/layout/activity_maps.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/A.R.T/AndroidStudioProjects/ps-gaudium-android-master/EntreGaudium/app/src/main/res/layout/activity_user.xml" value="0.15896739130434784" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK" />
 </project>

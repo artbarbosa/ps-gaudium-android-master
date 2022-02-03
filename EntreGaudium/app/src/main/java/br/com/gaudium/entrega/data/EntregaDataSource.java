@@ -4,8 +4,8 @@ package br.com.gaudium.entrega.model;
 
 import com.google.android.gms.maps.model.LatLng;
 
-public class PedidoJsonObj {
-	private String success;
+public class PedidosDataSource {
+	private String success; //?
 	private PedidoObj response;
 
 	public boolean isSuccess() {

@@ -45,7 +45,7 @@ public interface LatLngInterpolator {
 		/* From github.com/googlemaps/android-maps-utils */
 		@Override
 		public LatLng interpolate(float fraction, LatLng from, LatLng to) {
-			// http://en.wikipedia.org/wiki/Slerp
+			// http://en.wikipedia.org/wiki/Slerp a
 			double fromLat = toRadians(from.latitude);
 			double fromLng = toRadians(from.longitude);
 			double toLat = toRadians(to.latitude);

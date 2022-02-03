@@ -1,6 +1,6 @@
 package br.com.gaudium.entrega.model;
 
-public class EntregadorObj {
+public class EntregadorModel {
 	private static EntregadorObj instance = null;
 
 	private StatusEntregadorEnum status;
@@ -14,7 +14,6 @@ public class EntregadorObj {
 		if(instance == null){
 			instance = new EntregadorObj();
 		}
-
 		return instance;
 	}
 

@@ -96,7 +96,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         dLocRet = new DebugLocationRetriever();
         dLocRet.setLatLng(-22.904093, -43.175293);
-    }
+    }   
 
     /**
      * Manipulates the map once available.
